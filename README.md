@@ -39,6 +39,12 @@ O sistema foi projetado para atender bibliotecas de pequeno porte, permitindo o 
 * ⚠️ Tratamento completo de erros e exceções
 * 🖥️ Interface gráfica amigável (Java Swing)
 
+🎥 Demonstração das Funcionalidades
+
+A seguir, você pode assistir a um vídeo que demonstra todas as funcionalidades do sistema:
+
+👉 https://youtu.be/UQqK2Ffn9L8
+
 ---
 
 ## ✅ Requisitos de Programação Orientada a Objetos Atendidos
